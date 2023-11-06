@@ -17,9 +17,7 @@ body {
   font-size: 2rem;
   font-family: var(--fuente-principal);
   line-height: 1.5;
-  position: relative;
-  padding-bottom: 25rem;
-  min-height: 100vh;
+
 }
 
 img {
